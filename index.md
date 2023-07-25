@@ -13,4 +13,4 @@
 
 **Day3: Zoom:991 7877 3474, Password: 230811**
 
-[Day3 link] (https://zoom.us/j/99178773474?pwd=cGR3emNCc0ZQSG00U2orYjVrS3loQT09)  
+[link] (https://zoom.us/j/99178773474?pwd=cGR3emNCc0ZQSG00U2orYjVrS3loQT09)  
