@@ -1,4 +1,4 @@
- # <center>The 10th East Asian Conference on Harmonic Analysis  </center>
+ # <center> The 10th East Asian Conference on Harmonic Analysis  </center>
 # <center>  and Applications  </center>
 
 ### Zoom Links for the conference: ###
