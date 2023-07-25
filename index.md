@@ -1,4 +1,4 @@
-# (center) The 10th East Asian Conference in Harmonic Analysis and Applications (/center)
+# <center> The 10th East Asian Conference in Harmonic Analysis and Applications </center>
  
 
 
