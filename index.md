@@ -6,7 +6,7 @@
 
 **Day1: Zoom:910 7463 4372,  Password: 230809**   
 
-[1](123)
+[1](https://username.github.io/folder/document.pdf)
 
 **Day2: Zoom:934 4967 0908, Password: 230810**
 
