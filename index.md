@@ -6,7 +6,7 @@
 
 **Day1: Zoom:910 7463 4372,  Password: 230809**   
 
-[https://zoom.us/j/91074634372?pwd=b2FyRWtuQ21rcFhkWllJdEZEL2hFQT09](https://zoom.us/j/91074634372?pwd=b2FyRWtuQ21rcFhkWllJdEZEL2hFQT09)
+[1](123)
 
 **Day2: Zoom:934 4967 0908, Password: 230810**
 
