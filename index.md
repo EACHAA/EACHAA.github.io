@@ -2,16 +2,16 @@
  
 
 
-### Zoom Links for the conference: 
+### Zoom Links for the conference: (To be updated later)
 
-**Day1: Zoom:910 7463 4372,  Password: 230809**   
+**August 9th:**
 
 [1](schedule.pdf)
 
-**Day2: Zoom:934 4967 0908, Password: 230810**
+**August 10th:**
 
-[https://zoom.us/j/93449670908?pwd=MFBRWk5Qck4yTjFvOTl6VWpMd1Q2dz09](https://zoom.us/j/93449670908?pwd=MFBRWk5Qck4yTjFvOTl6VWpMd1Q2dz09)  
+**August 11th:**
 
-**Day3: Zoom:991 7877 3474, Password: 230811**
+### [Schedule of talks](schedule.pdf)
 
-[https://zoom.us/j/99178773474?pwd=cGR3emNCc0ZQSG00U2orYjVrS3loQT09](https://zoom.us/j/99178773474?pwd=cGR3emNCc0ZQSG00U2orYjVrS3loQT09)  
+### [Talks Information](Talks.pdf)
