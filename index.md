@@ -6,8 +6,6 @@
 
 **August 9th:**
 
-[1](schedule.pdf)
-
 **August 10th:**
 
 **August 11th:**
