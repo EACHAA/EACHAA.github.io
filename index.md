@@ -20,3 +20,12 @@ Meeting ID: 862 5599 2206,   Passcode: 934508
 ### [Schedule of talks](schedule.pdf)
 
 ### [Talks Information](Talks.pdf)
+
+
+### The organizing Committee:  
+Guozhen Lu (University of Connecticutt),   
+Lu Zhang (Shaanxi Normal University),   
+Sanghyuk Lee (Seoul National University),    
+Joonil Kim (Yonsei University),  
+Yutaka Teresawa (Nagoya University​),   
+Naohito Tomita (Osaka University​)  
