@@ -2,19 +2,19 @@
  
 
 
-### Zoom Links for the conference: 
+### Zoom Links for the conference: (updated on Aug 9th 8:00am)
 
 **August 9th:**  
-Meeting ID: 964 4662 9115,   Passcode: 533872  
-[https://zoom.us/j/96446629115?pwd=WEVWbk5Dak9MYzBqYThaNi84Zm1OQT09](https://zoom.us/j/96446629115?pwd=WEVWbk5Dak9MYzBqYThaNi84Zm1OQT09)
+Meeting ID: 865 9408 4979  Passcode: 357989
+[https://us02web.zoom.us/j/86594084979?pwd=SnFsMkhCT1lHdExEN0lNclZRYkFBdz09](https://us02web.zoom.us/j/86594084979?pwd=SnFsMkhCT1lHdExEN0lNclZRYkFBdz09)
 
 **August 10th:**  
-Meeting ID: 984 2806 0555,   Passcode: 245773  
-[https://zoom.us/j/98428060555?pwd=RitrZytnRmh1Uk9TcUxWdUhsS0c1UT09](https://zoom.us/j/98428060555?pwd=RitrZytnRmh1Uk9TcUxWdUhsS0c1UT09)
+Meeting ID: 861 0117 4035,   Passcode: 774928  
+[https://us02web.zoom.us/j/86101174035?pwd=bjA3RHBHSTdsaVhxT0o5czB2cThaUT09](https://us02web.zoom.us/j/86101174035?pwd=bjA3RHBHSTdsaVhxT0o5czB2cThaUT09)
 
 **August 11th:**  
-Meeting ID: 924 3409 9773,   Passcode: 867149  
-[https://zoom.us/j/92434099773?pwd=RUJGc1ROcWdNcUVqL0lRbzlOMkFaQT09](https://zoom.us/j/92434099773?pwd=RUJGc1ROcWdNcUVqL0lRbzlOMkFaQT09)
+Meeting ID: 862 5599 2206,   Passcode: 934508  
+[https://us02web.zoom.us/j/86255992206?pwd=QjJQVFlaNFJNNkNUeTE5dXptbmJvUT09](https://us02web.zoom.us/j/86255992206?pwd=QjJQVFlaNFJNNkNUeTE5dXptbmJvUT09)
 
 
 ### [Schedule of talks](schedule.pdf)
