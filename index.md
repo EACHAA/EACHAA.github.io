@@ -5,7 +5,7 @@
 ### Zoom Links for the conference: (updated on Aug 9th 8:00am)
 
 **August 9th:**  
-Meeting ID: 865 9408 4979  Passcode: 357989
+Meeting ID: 865 9408 4979  Passcode: 357989  
 [https://us02web.zoom.us/j/86594084979?pwd=SnFsMkhCT1lHdExEN0lNclZRYkFBdz09](https://us02web.zoom.us/j/86594084979?pwd=SnFsMkhCT1lHdExEN0lNclZRYkFBdz09)
 
 **August 10th:**  
