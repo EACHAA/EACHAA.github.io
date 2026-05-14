@@ -1,6 +1,10 @@
 # <center> The 10th East Asian Conference in Harmonic Analysis and Applications </center>
  
+### Registration
 
+<a class="button" href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__SgXYitUMFRMREs2M0oxSU9TQ1hEUzZTRFo4VTFZVi4u" target="_blank">
+  Register Now
+</a>
 
 ### Zoom Links for the conference: (updated on Aug 9th 8:00am)
 
